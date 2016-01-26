@@ -1,8 +1,8 @@
 UECM3033 Assignment #1 Report
 ========================================================
 
-- Prepared by: ** Put your name here**
-- Tutorial Group: T2/T3
+- Prepared by: Chua Khang Hui
+- Tutorial Group: T2
 
 --------------------------------------------------------
 
@@ -10,7 +10,7 @@ UECM3033 Assignment #1 Report
 
 The reports, codes and supporting documents are uploaded to Github at: 
 
-[https://github.com/your_github_id/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
+https://github.com/ChuaKhangHui/UECM3033_assign1
 
 
 ---------------------------------------------------------
@@ -43,4 +43,4 @@ x_0 + 2 x_1 &= 8.
 
 -----------------------------------
 
-<sup>last modified: change your date here</sup>
+<sup>last modified: 26/2/2016 18:43</sup>
